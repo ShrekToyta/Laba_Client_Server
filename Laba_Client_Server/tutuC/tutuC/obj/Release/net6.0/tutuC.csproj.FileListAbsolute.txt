@@ -1,0 +1,15 @@
+C:\Users\k\source\repos\tutuC\tutuC\bin\Release\net6.0\tutuC.exe
+C:\Users\k\source\repos\tutuC\tutuC\bin\Release\net6.0\tutuC.deps.json
+C:\Users\k\source\repos\tutuC\tutuC\bin\Release\net6.0\tutuC.runtimeconfig.json
+C:\Users\k\source\repos\tutuC\tutuC\bin\Release\net6.0\tutuC.dll
+C:\Users\k\source\repos\tutuC\tutuC\bin\Release\net6.0\tutuC.pdb
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.csproj.AssemblyReference.cache
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.AssemblyInfoInputs.cache
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.AssemblyInfo.cs
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.csproj.CoreCompileInputs.cache
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.dll
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\refint\tutuC.dll
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.pdb
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\tutuC.genruntimeconfig.cache
+C:\Users\k\source\repos\tutuC\tutuC\obj\Release\net6.0\ref\tutuC.dll

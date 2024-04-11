@@ -1,0 +1,15 @@
+C:\Users\k\source\repos\tutuS\tutuS\bin\Debug\net6.0\tutuS.exe
+C:\Users\k\source\repos\tutuS\tutuS\bin\Debug\net6.0\tutuS.deps.json
+C:\Users\k\source\repos\tutuS\tutuS\bin\Debug\net6.0\tutuS.runtimeconfig.json
+C:\Users\k\source\repos\tutuS\tutuS\bin\Debug\net6.0\tutuS.dll
+C:\Users\k\source\repos\tutuS\tutuS\bin\Debug\net6.0\tutuS.pdb
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.csproj.AssemblyReference.cache
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.AssemblyInfoInputs.cache
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.AssemblyInfo.cs
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.csproj.CoreCompileInputs.cache
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.dll
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\refint\tutuS.dll
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.pdb
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\tutuS.genruntimeconfig.cache
+C:\Users\k\source\repos\tutuS\tutuS\obj\Debug\net6.0\ref\tutuS.dll
